@@ -31,7 +31,7 @@ public final class PmdEclipseConstants {
      * If not, PMD tries to analyze the path to the ruleset file
      * ... and makes incorrect assumptions which crashes the Eclipse project import.
      */
-    public static final String PMD_RULESET_FILE = ".pmdrulset.xml";
+    public static final String PMD_RULESET_FILE = ".pmdruleset.xml";
 
     /**
      * The standard name of the Eclipse PMD configuration file within the
